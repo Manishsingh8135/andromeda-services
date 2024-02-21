@@ -5,8 +5,8 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Mike Quill",
-    designation: "Founder @LittleTreeFarmns",
+    name: "Sam ",
+    designation: "Founder @NatureHills",
     content:
       "AndroMeda Services elevated our website to new heights. Their exceptional web design and SEO skills have resulted in a $10K monthly business boost. Absolutely thrilled!",
     image: "/images/testimonials/auth-011.png",
@@ -14,8 +14,8 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 2,
-    name: "Hipolito Rivera",
-    designation: "Founder @R1PFITNESS",
+    name: "Daniel",
+    designation: "Founder @PlanetFitness",
     content:
       "AndroMeda Services crafted a custom website for us that perfectly captures our brand's essence. Their unique approach to SEO has been a game-changer in attracting the right audience. Truly exceptional work!",
     image: "/images/testimonials/hip.jpeg",
